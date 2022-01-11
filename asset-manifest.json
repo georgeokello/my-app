@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-app/static/css/main.d7da34c1.css",
-    "main.js": "/my-app/static/js/main.03387b52.js",
+    "main.js": "/my-app/static/js/main.a92bb4b0.js",
     "static/media/image.PNG": "/my-app/static/media/image.4c9be0ab28c70964d886.PNG",
     "static/media/kenboLogo.png": "/my-app/static/media/kenboLogo.835e517218a38f38cc0d.png",
     "static/media/water.PNG": "/my-app/static/media/water.2e07cfcc2f69e1e8d2b0.PNG",
@@ -9,10 +9,10 @@
     "static/media/civil.PNG": "/my-app/static/media/civil.76e200226ddfdaa4f3df.PNG",
     "index.html": "/my-app/index.html",
     "main.d7da34c1.css.map": "/my-app/static/css/main.d7da34c1.css.map",
-    "main.03387b52.js.map": "/my-app/static/js/main.03387b52.js.map"
+    "main.a92bb4b0.js.map": "/my-app/static/js/main.a92bb4b0.js.map"
   },
   "entrypoints": [
     "static/css/main.d7da34c1.css",
-    "static/js/main.03387b52.js"
+    "static/js/main.a92bb4b0.js"
   ]
 }
