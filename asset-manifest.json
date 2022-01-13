@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.d7da34c1.css",
-    "main.js": "/my-app/static/js/main.6c3b3342.js",
+    "main.css": "/my-app/static/css/main.b6af86ba.css",
+    "main.js": "/my-app/static/js/main.7c8972df.js",
     "static/media/image.PNG": "/my-app/static/media/image.4c9be0ab28c70964d886.PNG",
+    "static/media/electri.PNG": "/my-app/static/media/electri.8049f6c131d22f867f41.PNG",
+    "static/media/AboutBg.png": "/my-app/static/media/AboutBg.7b38708309b3f029e157.png",
+    "static/media/roadcons.PNG": "/my-app/static/media/roadcons.9832fec8a9b77f724bee.PNG",
+    "static/media/waterworks.PNG": "/my-app/static/media/waterworks.43c31d7dda5fe41d7f78.PNG",
+    "static/media/conswork.PNG": "/my-app/static/media/conswork.1d5780a16874248a00ba.PNG",
     "static/media/kenboLogo.png": "/my-app/static/media/kenboLogo.835e517218a38f38cc0d.png",
-    "static/media/water.PNG": "/my-app/static/media/water.2e07cfcc2f69e1e8d2b0.PNG",
-    "static/media/road.PNG": "/my-app/static/media/road.00defef02fa3cae09337.PNG",
-    "static/media/civil.PNG": "/my-app/static/media/civil.76e200226ddfdaa4f3df.PNG",
     "index.html": "/my-app/index.html",
-    "main.d7da34c1.css.map": "/my-app/static/css/main.d7da34c1.css.map",
-    "main.6c3b3342.js.map": "/my-app/static/js/main.6c3b3342.js.map"
+    "main.b6af86ba.css.map": "/my-app/static/css/main.b6af86ba.css.map",
+    "main.7c8972df.js.map": "/my-app/static/js/main.7c8972df.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7da34c1.css",
-    "static/js/main.6c3b3342.js"
+    "static/css/main.b6af86ba.css",
+    "static/js/main.7c8972df.js"
   ]
 }
